@@ -28,3 +28,5 @@ Instructions on using GIT :) (there could be mistakes lmk)
 
 10) If you go to the link and you click on "Branch master" then click your
     name you should see your work
+
+11) Once we are done we'll push everything to the master branch
