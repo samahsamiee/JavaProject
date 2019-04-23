@@ -22,8 +22,8 @@ Instructions on using GIT :) (there could be mistakes lmk)
 
 9) If you are not done or done make sure you do the following commands:
 
-	git add .
-	git commit "write some kinda meaningful message"
+	git add . <br />
+	git commit "write some kinda meaningful message" <br />
 	git push -u orign Yourname
 
 10) If you go to the link and you click on "Branch master" then click your
